@@ -12,10 +12,15 @@ Aim & Objectives
 Aim: Identify plant-derived NDM-1 inhibitors in K. pneumoniae via structure-based computational screening.
 
 Understand the role of NDM-1 in mediating antibiotic resistance in K. pneumoniae
+
 Screen selected plant-based phytocompounds against NDM-1 computationally
+
 Perform molecular docking to evaluate binding affinity and inhibitory potential
+
 Analyze protein–ligand interactions and predict pharmacokinetic/toxicity (ADME/T) properties
+
 Run molecular dynamics simulations on top-hit complexes to assess structural stability
+
 Methods Summary
 Target structure: NDM-1 crystal structure (PDB ID: 3SPU; King & Strynadka, 2011), prepared in BIOVIA Discovery Studio Visualizer — chain A retained, zinc cofactors kept, waters/heteroatoms removed
 Ligand library: ~200 phytocompounds curated from Ajwain and Karpooravalli, structures retrieved from PubChem
