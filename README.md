@@ -126,7 +126,9 @@ PyRx/AutoDock Vina (Dallakyan & Olson, 2015) · BIOVIA Discovery Studio Visualiz
 
 ---
 
-**Author:** Lakshmikala RS<br>
+## Author
+
+Lakshmikala RS<br>
 M.Sc. Bioinformatics<br>
 Interested in Genomics, AMR studies, and Computational Biology
 
