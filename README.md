@@ -134,4 +134,4 @@ Interested in Genomics, AMR studies, and Computational Biology
 
 If you use this work, please cite:
 
-> Lakshmikala R.S. (2026). *Structure-Based Discovery of NDM-1 Inhibitors in K. pneumoniae.* GitHub Repository: https://github.com/lakshmikalars/NDM1-K.-pneumoniae-drug-discovery
+> Lakshmikala RS (2026). *Structure-Based Discovery of NDM-1 Inhibitors in K. pneumoniae.* GitHub Repository: https://github.com/lakshmikalars/NDM1-K.-pneumoniae-drug-discovery
