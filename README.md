@@ -20,7 +20,7 @@ NDM-1 is a key resistance enzyme driving carbapenem-resistant *Klebsiella pneumo
 - **Ligand library:** ~200 phytocompounds curated from Ajwain and Karpooravalli, structures retrieved from PubChem
 - **Molecular docking:** PyRx (AutoDock Vina algorithm), blind docking across the full protein surface
 - **Interaction analysis:** BIOVIA Discovery Studio Visualizer — hydrogen bonds, hydrophobic/π-interactions, metal coordination
-- **ADME/T profiling:** SwissADME, pkCSM, and ProTox-II — Lipinski's Rule of Five, toxicity endpoints (AMES mutagenicity, hERG inhibition, LD50)
+- **ADME/T profiling:** SwissADME, pkCSM — Lipinski's Rule of Five, toxicity endpoints (AMES mutagenicity, hERG inhibition, LD50)
 - **Reference inhibitors:** Thiorphan, D-Captopril, L-Captopril (docked under identical conditions for comparison)
 - **Molecular dynamics:** GROMACS, 50 ns production runs on top lead complexes; RMSD, RMSF, and radius of gyration (Rg) used to assess stability
 
