@@ -1,0 +1,11 @@
+Compound,Source,Mol_Wt_g_mol,LogP,HB_Acceptors,HB_Donors,PSA_A2,AMES_Toxicity,hERG_Inhibitor,LD50_mol_kg
+Aromadendrene,Ajwain,204.35,4.34,0,0,0,No,No,1.526
+Apigenin-7-O-glucoside,Ajwain,432.38,0.52,10,6,170.05,No,No,2.595
+Luteolin,Ajwain,286.24,1.73,6,4,111.13,No,No,2.455
+Aromadendrene,Karpooravalli,204.35,4.34,0,0,0,No,No,1.526
+Dibenzamide,Karpooravalli,225.24,2.4,2,1,46.17,No,No,1.72
+Ledene,Karpooravalli,204.35,4.26,0,0,0,No,No,1.518
+Delta-Gurjunene,Karpooravalli,204.35,4.23,0,0,0,No,No,1.578
+Thiorphan ,Reference (literature),253.32,1.38,3,2,105.2,No,No,2.575
+D-Captopril ,Reference (literature),217.29,0.62,3,1,96.41,No,No,1.654
+L-Captopril ,Reference (literature),217.29,0.62,3,1,96.41,No,No,1.654
